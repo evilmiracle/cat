@@ -1,1 +1,1 @@
-# cat
+about linux cat
